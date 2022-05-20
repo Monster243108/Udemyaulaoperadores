@@ -1,2 +1,2 @@
 # Udemyaulaoperadores
-Aula de Operadoes matematicos em C#.
+Aula de Operadoes matemáticos em C#.
